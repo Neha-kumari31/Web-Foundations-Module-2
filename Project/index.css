@@ -1,0 +1,175 @@
+* {
+  box-sizing: border-box;
+  font-family: Roboto, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styling */
+
+header {
+  padding: 20px 40px 14px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.14);
+}
+
+header nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav img {
+  width: 136px;
+}
+
+.nav-items {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  padding: 10px 40px 10px 20px;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+button {
+  height: 36px;
+  outline: none;
+  border: 0;
+  color: white;
+  background-color: #4571c9;
+  padding: 8px 30px;
+  font-size: 15.5px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 400ms ease, opacity 400ms ease;
+}
+
+button:hover {
+  background-color: #2b4f97;
+}
+
+/* Content Styling */
+
+#content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+  color: #1b212c;
+  font-size: 50px;
+  line-height: 70px;
+  text-align: left;
+  letter-spacing: -0.4px;
+  margin: 60px 0 0;
+}
+
+#content .sub-headline {
+  font-size: 18px;
+  margin: 16px 0 10px;
+}
+
+#profile-cards {
+  display: flex;
+  justify-items: space-between;
+  flex-wrap: wrap;
+}
+
+/* Student Profile Section */
+
+.student-profile-card {
+  margin: 15px;
+  padding: 30px;
+  border: 1px solid #1b212c;
+  border-radius: 20px;
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+}
+
+.top-content {
+  display: flex;
+  justify-content: space-between;
+  color: #1b212c;
+}
+
+.top-content .name-area {
+  width: 100%;
+}
+
+.top-content .name-area h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  font-weight: 400;
+  margin: 0 0 10px;
+}
+
+.top-content .name-area p {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0 0 5px;
+}
+
+p.remote {
+  font-style: italic;
+}
+
+.top-content .photo-area img {
+  max-width: 140px;
+  max-height: 140px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.middle-content h3 {
+  font-size: 16px;
+  color: #1b212c;
+  margin: 0;
+}
+
+.middle-content h4 {
+  font-size: 16px;
+  color: #1b212c;
+  margin: 15px 0;
+}
+
+.middle-content .pill-section {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+}
+
+.middle-content .pill-section .pill {
+  list-style: none;
+  border: 1px solid #1b212c;
+  color: #1b212c;
+  font-size: 12px;
+  padding: 2px 10px;
+  border-radius: 16px;
+  margin: 10px 8px 0 0;
+}
+
+.bottom-content {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  border-left: 4px solid #27c497;
+  font-family: "Suisseintl webm", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* Go Further Section - Use the area below this comment to write the code for you Go Further exersize */
