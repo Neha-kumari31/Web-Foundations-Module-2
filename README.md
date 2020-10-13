@@ -51,6 +51,16 @@ HTML: Starting at the bottom of the page you will see a `div` element with the c
 
 CSS: Research CSS properties and choose three that we haven't talked about in class (there are hundreds!). Use these three properties to add style to the HTML elements you created above (after line 175 in `index.css`). You may also add any other styles you would like to the elements you created. Get wacky, have fun!
 
+Resources:
+
+[W3Schools - HTML Reference](https://www.w3schools.com/html/html_elements.asp)
+
+[W3Schools - CSS Reference](https://www.w3schools.com/cssref/)
+
+[Mozilla Developer Network - HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+[Mozilla Developer Network - CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
 ### In Your Own Words
 
 An impactful technique in learning something new is attempting to reiterate the concepts you just learned from memory in your own words. This allows you to highlight areas you are not comfortable with and could study on a little more. We'll start this exercise off pretty simply. Just remember that this is merely an exercise, there are no right or wrong answers here. Please answer the following question in your own words
