@@ -5,7 +5,7 @@
 ### Module 2 Project
 
 Today we learned about the core languages of every webpage, HTML and CSS. In this project, we are going to practice both of those languages.
-In this project, we are going to mimic the Lambda School Alumni page (you can find that here: https://lambdaschool.com/profiles). We want you to create your own profile. Don't worry this won't be made public, it's just a fun exercise for now. One day you will have your own profile on that page.
+In this project, we are going to mimic the BloomTech Alumni page (you can find that here: https://bloomtech.com/profiles). We want you to create your own profile. Don't worry this won't be made public, it's just a fun exercise for now. One day you will have your own profile on that page.
 
 ### Getting Started
 
