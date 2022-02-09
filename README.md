@@ -23,19 +23,19 @@ In order to get started you will need to download this project as a .zip file an
 Before you open the project, one thing to note. A LOT of code has already been written. This may be overwhelming at first, that's OK! Take a moment and just analyze the code that has already been written. Are there elements that you recognize? Are there elements that you've never seen before? Take note of these things. A major skill in software development is learning to read the code that is already there and figuring out where to insert your own code. We've done that step for you today but as an exercise try and answer the questions below:
 
 1. In `index.html`, on line 3, what is the purpose of this HTML element?
-   [Write Your Answer Here]
+   [link the css file to the html code]
 
 2. In `index.html`, on what line is an Image being included in the code for the first time?
-   [Write Your Answer Here]
+   [8]
 
 3. In `index.html`, what is the element on line 19 and what is it's purpose in HTML?
-   [Write Your Answer Here]
+   [div element, it is division element that lets you group similar sets of content together on web page, it is a generic container tag that is used to group of various tags of html so that sections can be created and style can be applied on them.it is mainly use to create layout of the web page ]
 
 4. In `index.css`, on line 48, what is this CSS property changing the color of?
-   [Write Your Answer Here]
+   [it is changing color of buttons of skills on the web page]
 
 5. In `index.css`, on line 34, what is the code using to select the element?
-   [Write Your Answer Here]
+   [we are using dot to select the class objct]
 
 ### Try it out
 
